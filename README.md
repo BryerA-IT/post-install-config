@@ -58,7 +58,10 @@ Now that we have set up a new team we will create a new setting that will allow 
 It is now time to create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are be assigned in the Agents tab. 
 </p>
 <br />
-<img src=""Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/a0e4d7bb-2c1e-4c39-830f-4b0fed3c80d7)
+
+
 </p>
 <p>
 After creating some agents we will create users. Users are customers that create tickets when they are having issues. A user is identified with their E-mail address. To create a user follow this path Agent Panel->Users->User Directory->Add new. 
